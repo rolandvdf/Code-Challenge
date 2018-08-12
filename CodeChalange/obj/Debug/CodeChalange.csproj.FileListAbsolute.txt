@@ -1,0 +1,6 @@
+C:\Users\RVDBC57\Desktop\CodeChalange\CodeChalange\bin\Debug\CodeChalange.exe.config
+C:\Users\RVDBC57\Desktop\CodeChalange\CodeChalange\bin\Debug\CodeChalange.exe
+C:\Users\RVDBC57\Desktop\CodeChalange\CodeChalange\bin\Debug\CodeChalange.pdb
+C:\Users\RVDBC57\Desktop\CodeChalange\CodeChalange\obj\Debug\CodeChalange.csproj.CoreCompileInputs.cache
+C:\Users\RVDBC57\Desktop\CodeChalange\CodeChalange\obj\Debug\CodeChalange.exe
+C:\Users\RVDBC57\Desktop\CodeChalange\CodeChalange\obj\Debug\CodeChalange.pdb

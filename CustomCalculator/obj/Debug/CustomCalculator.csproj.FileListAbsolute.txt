@@ -1,0 +1,5 @@
+C:\Users\RVDBC57\Desktop\CodeChalange\CustomCalculator\bin\Debug\CustomCalculator.dll
+C:\Users\RVDBC57\Desktop\CodeChalange\CustomCalculator\bin\Debug\CustomCalculator.pdb
+C:\Users\RVDBC57\Desktop\CodeChalange\CustomCalculator\obj\Debug\CustomCalculator.csproj.CoreCompileInputs.cache
+C:\Users\RVDBC57\Desktop\CodeChalange\CustomCalculator\obj\Debug\CustomCalculator.dll
+C:\Users\RVDBC57\Desktop\CodeChalange\CustomCalculator\obj\Debug\CustomCalculator.pdb

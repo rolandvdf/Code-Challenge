@@ -1,0 +1,15 @@
+C:\Users\RVDBC57\Desktop\CodeChalange\CustomCalculatorTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\RVDBC57\Desktop\CodeChalange\CustomCalculatorTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\RVDBC57\Desktop\CodeChalange\CustomCalculatorTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\RVDBC57\Desktop\CodeChalange\CustomCalculatorTests\bin\Debug\CustomCalculatorTests.dll
+C:\Users\RVDBC57\Desktop\CodeChalange\CustomCalculatorTests\bin\Debug\CustomCalculatorTests.pdb
+C:\Users\RVDBC57\Desktop\CodeChalange\CustomCalculatorTests\bin\Debug\CustomCalculator.dll
+C:\Users\RVDBC57\Desktop\CodeChalange\CustomCalculatorTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\RVDBC57\Desktop\CodeChalange\CustomCalculatorTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\RVDBC57\Desktop\CodeChalange\CustomCalculatorTests\bin\Debug\CustomCalculator.pdb
+C:\Users\RVDBC57\Desktop\CodeChalange\CustomCalculatorTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\RVDBC57\Desktop\CodeChalange\CustomCalculatorTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\RVDBC57\Desktop\CodeChalange\CustomCalculatorTests\obj\Debug\CustomCalculatorTests.csprojResolveAssemblyReference.cache
+C:\Users\RVDBC57\Desktop\CodeChalange\CustomCalculatorTests\obj\Debug\CustomCalculatorTests.csproj.CoreCompileInputs.cache
+C:\Users\RVDBC57\Desktop\CodeChalange\CustomCalculatorTests\obj\Debug\CustomCalculatorTests.dll
+C:\Users\RVDBC57\Desktop\CodeChalange\CustomCalculatorTests\obj\Debug\CustomCalculatorTests.pdb
